@@ -15,13 +15,6 @@ D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Food_delivery.dll
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Food_delivery.pdb
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Antlr3.Runtime.dll
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.Agent.Intercept.dll
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.DependencyCollector.dll
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.PerfCounterCollector.dll
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.ServerTelemetryChannel.dll
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.Web.dll
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.WindowsServer.dll
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.ApplicationInsights.dll
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.Web.Infrastructure.dll
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Newtonsoft.Json.dll
@@ -33,11 +26,6 @@ D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\System.Web.WebPages.dll
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\System.Web.WebPages.Razor.dll
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\WebGrease.dll
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.DependencyCollector.xml
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.ServerTelemetryChannel.xml
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.Web.xml
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.AI.WindowsServer.xml
-D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.ApplicationInsights.xml
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\System.Web.Helpers.xml
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\System.Web.Mvc.xml
@@ -98,3 +86,11 @@ E:\OuluUAS\YEAR 3\ASP.NET_MVC\Food_delivery\Food_delivery\obj\Debug\Food_deliver
 E:\OuluUAS\YEAR 3\ASP.NET_MVC\Food_delivery\Food_delivery\obj\Debug\Food_delivery.csproj.CopyComplete
 E:\OuluUAS\YEAR 3\ASP.NET_MVC\Food_delivery\Food_delivery\obj\Debug\Food_delivery.dll
 E:\OuluUAS\YEAR 3\ASP.NET_MVC\Food_delivery\Food_delivery\obj\Debug\Food_delivery.pdb
+D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\EntityFramework.dll
+D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\EntityFramework.SqlServer.dll
+D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\EntityFramework.xml
+D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\EntityFramework.SqlServer.xml
+D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\PagedList.dll
+D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\PagedList.Mvc.dll
+D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\PagedList.xml
+D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\PagedList.Mvc.xml

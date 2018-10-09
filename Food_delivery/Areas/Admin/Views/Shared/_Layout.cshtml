@@ -20,7 +20,10 @@
                 @Html.ActionLink("Dashboard", "Index", "Admin/Dashboard", new { area = "" }, new { @class = "navbar-brand" })
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav"></ul>
+                <ul class="nav navbar-nav">
+                    @Html.ActionLink("ManagePages", "Index", "Admin/ManagePages", new { area = "" }, new { @class = "navbar-brand" })
+                    @Html.ActionLink("Edit Sidebar", "EditSidebar", "Admin/ManagePages", new { area = "" }, new { @class = "navbar-brand" })
+                </ul>
                 <ul class="navbar-right">
                     @Html.ActionLink("Admin Panel", "Index", "Admin/Dashboard", new { area = "" }, new { @class = "navbar-brand" })
                 </ul>
