@@ -8,9 +8,10 @@ using System.Web.Mvc;
 
 namespace Food_delivery.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class ManagePagesController : Controller
     {
-
+       
         // GET: Admin/ManagePages
         public ActionResult Index()
         {

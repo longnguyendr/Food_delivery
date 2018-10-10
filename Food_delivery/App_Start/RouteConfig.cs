@@ -24,7 +24,7 @@ namespace Food_delivery
                 new { controller = "Pages", action = "PagesMenuPartial" });
                */
             routes.MapRoute("Default", "", new { controller = "Pages", action = "Index" }, new[] { "Food_delivery.Controllers" });
-           routes.MapRoute("PagesMenuPartial", "Pages/PagesMenuPartial", new { controller = "Pages", action = "PagesMenuPartial" }, new[] { "Food_delivery.Controllers" });
+            routes.MapRoute("PagesMenuPartial", "Pages/PagesMenuPartial", new { controller = "Pages", action = "PagesMenuPartial" }, new[] { "Food_delivery.Controllers" });
             routes.MapRoute("Pages", "{page}", new { controller = "Pages", action = "Index" }, new[] { "Food_delivery.Controllers" });
             routes.MapRoute("Account", "Account/{action}/{id}", new { controller = "Account", action = "Index", id = UrlParameter.Optional }, new[] { "Food_delivery.Controllers" });
 
