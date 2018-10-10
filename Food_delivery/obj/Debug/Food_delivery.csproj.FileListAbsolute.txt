@@ -94,3 +94,7 @@ D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\PagedList.Mvc.dll
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\PagedList.xml
 D:\Oulu UAS\Year 3\ASP.NET Application\Projects\Food_delivery\Food_delivery\bin\PagedList.Mvc.xml
+E:\OuluUAS\YEAR 3\ASP.NET_MVC\Food_delivery\Food_delivery\bin\PagedList.dll
+E:\OuluUAS\YEAR 3\ASP.NET_MVC\Food_delivery\Food_delivery\bin\PagedList.Mvc.dll
+E:\OuluUAS\YEAR 3\ASP.NET_MVC\Food_delivery\Food_delivery\bin\PagedList.xml
+E:\OuluUAS\YEAR 3\ASP.NET_MVC\Food_delivery\Food_delivery\bin\PagedList.Mvc.xml

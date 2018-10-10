@@ -53,7 +53,7 @@
                 $@product.Price
             </td>
             <td>
-                <a href="/admin/shop/EditProduct/@product.Id">
+                <a href="/Admin/Shop/EditProduct/@product.Id">
                     <img src="/Images/Uploads/Products/@product.Id/Thumbs/@product.ImageName" />
                 </a>
             </td>
@@ -79,7 +79,7 @@ $(function () {
         var url = $(this).val();
 
         if (url) {
-            window.location = "/admin/shop/Products?catId=" + url;
+            window.location = "/Admin/Shop/Products?catId=" + url;
         }
 
         return false;

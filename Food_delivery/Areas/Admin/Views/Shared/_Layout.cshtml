@@ -17,12 +17,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("Dashboard", "Index", "Admin/Dashboard", new { area = "" }, new { @class = "navbar-brand" })
+                <a href="/Admin/Dashboard" class="navbar-brand">Dashboard</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    @Html.ActionLink("ManagePages", "Index", "Admin/ManagePages", new { area = "" }, new { @class = "navbar-brand" })
-                    @Html.ActionLink("Edit Sidebar", "EditSidebar", "Admin/ManagePages", new { area = "" }, new { @class = "navbar-brand" })
+                    <li><a href="/Admin/ManagePages">Pages</a></li>
+                    <li><a href="/Admin/ManagePages/EditSidebar">Sidebar</a></li>
+                    <li><a href="/Admin/Shop/Categories">Categories</a></li>
+                    <li><a href="/Admin/Shop/Products">Products</a></li>
+                    <li><a href="/Admin/Shop/Orders">Orders</a></li>
                 </ul>
                 <ul class="navbar-right">
                     @Html.ActionLink("Admin Panel", "Index", "Admin/Dashboard", new { area = "" }, new { @class = "navbar-brand" })
