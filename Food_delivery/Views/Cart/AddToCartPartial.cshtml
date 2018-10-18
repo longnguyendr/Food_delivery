@@ -1,0 +1,8 @@
+﻿@model Food_delivery.Models.ViewModels.Cart.CartVM
+
+Your cart: @Model.Quantity item(s) - $@Model.Price
+<br />
+@if (Request.IsAuthenticated)
+{
+    <a href="/Cart/index">Checkout Here</a>
+}

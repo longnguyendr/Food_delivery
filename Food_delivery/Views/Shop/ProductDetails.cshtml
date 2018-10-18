@@ -31,7 +31,7 @@
         }
         else
         {
-            <p >Please Login to Order Food</p>
+            <p>Please Login to order</p>
         }
 
     </div>
@@ -62,9 +62,9 @@
 <link href="~/Content/jquery.fancybox.css" rel="stylesheet" />
 
 @section Scripts {
-
-    <script src="~/Scripts/jquery.fancybox.js"></script>
-    <script>
+    
+<script src="~/Scripts/jquery.fancybox.js"></script>
+<script>
 $(function () {
 
     /*
@@ -84,14 +84,14 @@ $(function () {
 
         $("span.loader").addClass("ib");
 
-        var url = "/cart/AddToCartPartial";
+        var url = "/Cart/AddToCartPartial";
 
         $.get(url, { id: @Model.Id }, function (data) {
             $(".ajaxcart").html(data);
         }).done(function () {
             $("span.loader").removeClass("ib");
             $("span.ajaxmsg").addClass("ib");
-            setTimeout(function () {
+            setTimeout(function () { 
                 $("span.ajaxmsg").fadeOut("fast");
                 $("span.ajaxmsg").removeClass("ib");
             }, 1000);
@@ -101,6 +101,6 @@ $(function () {
     ////////////////////////////////////////////////////////
 
 });
-    </script>
-
+</script>
+    
 }
